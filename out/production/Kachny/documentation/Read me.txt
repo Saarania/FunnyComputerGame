@@ -1,0 +1,3 @@
+- Kazdy pohyblivy objekt se posouva v case smerem k hracovi a hrac stoji na miste, takto se vytvari iluze ze hrac se pohybuje
+- Kazdy objekt ma boolean vlastnost jestli po kolizi s hracem hracovi ublizi (pouze auto)
+- objekty typu strom jsou podle tridy TreeView, objekty typu Auto jsou ve tride AutoView, zeme v GroundView a zbytek v objectView
